@@ -1,0 +1,4 @@
+############################
+REQUEST:DEFAULT VALUE
+############################
+Threshold channel number:110

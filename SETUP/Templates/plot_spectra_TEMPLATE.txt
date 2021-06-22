@@ -1,0 +1,24 @@
+############################################################################
+############################################################################
+### REQUEST | FORM OF RESPONSE (no spaces or quotes unless part of response)
+### __default response__
+(1) Files with data to be plotted | file number, next
+01,02,03
+(2) Labels (same as number of files) | label, next
+spectrum A, spectrum B, spectrum C
+(3) any rescaling? (same as number of files) | factor or "None", next
+None,None,None
+(4) Log scale? | "Yes" or "No"
+Yes
+(5) Plot limits | left, right, bottom, top (a number or "None" at any)
+0,None,None,None
+(6) Y-axis label | "measurement (units)"
+X-Ray rate (/eV/s)
+(7) X-axis label |  "independent (units)"
+Energy (eV)
+(8) Plot title | "Spectra 12:00 1 January 2019"
+Spectra 12:00 1 January 2019
+(9) Should save to "/OUTPUT/plots/" or show? | "Save" or "Show"
+Show
+############################################################################
+############################################################################
